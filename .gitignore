@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+bayesian_test
+bnrepository_test
+bnrepository_data_test
+*.class
